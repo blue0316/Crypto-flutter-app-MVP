@@ -1,6 +1,6 @@
 # Flutter Crypto App (API+UI) with support for dark and light mode.
 ### Flutter 2.10.3 Null Safety (2022)
-Beautiful Crypto App (API+UI) with support for dark and light mode. Created by Martin Gogolowicz ( Martin Gogołowicz ).
+Beautiful Crypto App (API+UI) with support for dark and light mode. Created by Artur Chornyi ( Artur Chornyi ).
 ## Please leave a ⭐ if you like it 💙
 ## How it looks:
 
